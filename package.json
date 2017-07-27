@@ -9,14 +9,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "tbd"
+        "url": "https://github.com/Vitorcast/WEB-DEVELOPMENT-webpack-typescript-boilerplate"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "tbd/issues"
+        "url": "https://github.com/Vitorcast/WEB-DEVELOPMENT-webpack-typescript-boilerplate/issues"
     },
-    "homepage": "tbd#readme",
+    "homepage": "https://github.com/Vitorcast/WEB-DEVELOPMENT-webpack-typescript-boilerplate#readme",
     "devDependencies": {
         "awesome-typescript-loader": "^3.2.1",
         "copy-webpack-plugin": "^4.0.1",
